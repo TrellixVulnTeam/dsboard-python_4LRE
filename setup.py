@@ -8,7 +8,7 @@ setup(
   author = 'Leon Stjepan Uroic',                   
   author_email = 'leon.stjepan@gmail.com',     
   url = 'https://github.com/leon3428/dsboard-python',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/leon3428/dsboard-python',    
+  download_url = 'https://github.com/leon3428/dsboard-python/archive/0.1.tar.gz',    
   keywords = ['DSBOARD', 'LIVE PLOTTING', 'DATA SCIENCE'],   
   install_requires=[],
   classifiers=[
