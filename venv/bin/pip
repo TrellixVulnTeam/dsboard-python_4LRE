@@ -1,4 +1,4 @@
-#!/home/leon3428/dev/dsboard-py/venv/bin/python
+#!/home/leon3428/dev/dsboard-python/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

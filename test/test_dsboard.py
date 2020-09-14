@@ -1,9 +1,9 @@
-from dsboard import dsboard as ds
+from dsboard import dsboard
 from time import sleep
 from random import randrange, random
 
 def main():
-    project = ds.dsboard("TestProject")
+    project = dsboard("TestProject")
     project.addLinePlot("sensorSimulation", "time", "temperature(°C)", linet = 0)
     project.addTextPlot("console")
     project.addImagePlot("schematic", "jpg")

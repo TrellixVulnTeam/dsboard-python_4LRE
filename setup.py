@@ -7,8 +7,8 @@ setup(
   description = 'Python module for dsboard.',   
   author = 'Leon Stjepan Uroic',                   
   author_email = 'leon.stjepan@gmail.com',     
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    
+  url = 'https://github.com/leon3428/dsboard-python',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/leon3428/dsboard-python',    
   keywords = ['DSBOARD', 'LIVE PLOTTING', 'DATA SCIENCE'],   
   install_requires=[],
   classifiers=[
